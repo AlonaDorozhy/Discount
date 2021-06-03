@@ -1,0 +1,27 @@
+table.table {
+    font-size: 14px;
+    color: #333333;
+    border-width: 1px;
+    border-color: #6772eb;
+    border-collapse: collapse;
+}
+
+table.table th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #6772eb;
+    background-color: #8cc1f3;
+}
+
+table.table td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #6772eb;
+    background-color: #ffffff;
+}
+
+table {
+    margin: auto;
+}
